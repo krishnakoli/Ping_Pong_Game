@@ -1,0 +1,58 @@
+body{
+    background-color:#192734;
+    color:white
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+#photo{
+    margin-bottom: 3px;
+}
+
+#Content{
+    margin-left: 35%;
+    margin-right: 33%;
+    margin-bottom: 5%;
+    border: 0.5px solid grey
+}
+
+#info{
+    padding-left: 1.5%;
+    border-bottom: 0.5px solid grey;
+}
+
+#Score_board{
+    padding-left: 2%;
+}
+
+#score_line{
+    font-size: 50px;
+    margin-bottom: auto;
+}
+
+#text{
+    color:grey;
+    margin-top: 2px;;
+}
+
+.btn-group{
+    padding-top: 15px;
+}
+
+#players{
+    border-radius: 20px;
+    padding: 3px 8px;
+}
+
+button{
+    /* width: 100%; */
+    padding: 0px 100px;
+}
+
